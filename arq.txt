@@ -1,0 +1,3 @@
+dentro do provider se cria o contexto e os providers
+
+mnt 13 do video = para não perde o estado inicial do contexto, por isso usei o useefect
